@@ -9,7 +9,7 @@ targetCompatibility = 1.8
 
 dependencies {
     compile (
-        'com.amazonaws:aws-lambda-java-core:1.1.0',
+        'com.amazonaws:aws-lambda-java-core:1.2.3',
         'com.amazonaws:aws-lambda-java-log4j:1.0.0',
         'com.fasterxml.jackson.core:jackson-core:2.8.5',
         'com.fasterxml.jackson.core:jackson-databind:2.8.5',
